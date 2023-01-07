@@ -16,8 +16,8 @@
 <img  width="700px"  src="https://i.imgur.com/8mLHWpz.png"/>
 <h5>Clients</h5>
 <img  width="700px"  src="https://i.imgur.com/Ij8GsI3.png"/>
-<h5>Team Members</h5>
-<img  width="700px"  src="https://i.imgur.com/0i71qkc.png"/>
+<!-- <h5>Team Members</h5> -->
+<!-- <img  width="700px"  src="https://i.imgur.com/0i71qkc.png"/> -->
 <h5>Update Profile</h5>
 <img  width="700px"  src="https://i.imgur.com/5kgT6qb.png"/>
 </div>
